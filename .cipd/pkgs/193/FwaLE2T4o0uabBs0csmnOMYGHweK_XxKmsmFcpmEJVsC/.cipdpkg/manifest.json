@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/androidx_versionedparcelable_versionedparcelable",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "versionedparcelable-1.1.0.aar",
+      "size": 31062,
+      "hash": "mh13FArCIreGa1BU7n0Vm8GACYftLUbdav3RRau3EMEC"
+    }
+  ]
+}

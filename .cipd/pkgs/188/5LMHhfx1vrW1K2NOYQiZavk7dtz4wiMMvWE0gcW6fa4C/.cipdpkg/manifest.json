@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/androidx_vectordrawable_vectordrawable_animated",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "vectordrawable-animated-1.1.0.aar",
+      "size": 34496,
+      "hash": "dtosUCNx2cOAVN9eKySNANqHgJ7QWPM2Pq6Hzl4kA_gC"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/androidx_arch_core_core_common",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "core-common-2.1.0.jar",
+      "size": 11257,
+      "hash": "_hI3vwKdBj5_Kf45rq9z73TIsKNlhIb8KdPFQyZlOIkC"
+    }
+  ]
+}

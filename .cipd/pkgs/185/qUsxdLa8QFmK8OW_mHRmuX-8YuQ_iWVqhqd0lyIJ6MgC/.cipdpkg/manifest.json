@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/androidx_tvprovider_tvprovider",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "tvprovider-1.0.0.aar",
+      "size": 70249,
+      "hash": "jlQN_aOjKWKx4CC-bXLW3JgnhJbk4bZOTrRwHlg9zVkC"
+    }
+  ]
+}

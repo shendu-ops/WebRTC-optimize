@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/r8",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "lib/r8.jar",
+      "size": 7191356,
+      "hash": "usoqXAijTm8Pl9cbP3NMHXmCex_smgyByalUiM6vGAQC"
+    }
+  ]
+}

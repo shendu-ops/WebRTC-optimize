@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/com_android_tools_desugar_jdk_libs",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "desugar_jdk_libs-1.0.5.jar",
+      "size": 1053565,
+      "hash": "-oS0j9GhVK6LDUW4x33isIOZn9zbZb1oeYGBC2saO4kC"
+    }
+  ]
+}

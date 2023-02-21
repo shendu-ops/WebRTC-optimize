@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/com_squareup_javapoet",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "javapoet-1.11.1.jar",
+      "size": 99074,
+      "hash": "nL8hB75JnsbpWv02tY48oSKiQWbN03VzLlEmfWQFjpAC"
+    }
+  ]
+}

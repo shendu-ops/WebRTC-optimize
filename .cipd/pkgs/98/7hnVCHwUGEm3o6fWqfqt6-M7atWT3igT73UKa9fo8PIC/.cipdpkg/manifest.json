@@ -1,0 +1,12 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/androidx_fragment_fragment",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "fragment-1.1.0.aar",
+      "size": 166608,
+      "hash": "oUyLjyFT8SjoAPvSZqa-qxwoOYKinsVw0swF0wfYFJYC"
+    }
+  ]
+}
